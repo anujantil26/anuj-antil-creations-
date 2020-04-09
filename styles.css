@@ -1,0 +1,147 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body
+{  
+      background-image: url("background-images/2.jpg");      
+      height: 100vh;
+      background-size: cover;
+      background-image: center;
+}
+.top
+{
+    height:30px;
+    background-color: lightgreen;
+
+    text-align:center;
+
+    color: lightgoldenrodyellow;
+}
+
+.ul1
+{
+    float:right;
+
+    
+}
+
+.ul1 li a
+{
+    color:  #fff;
+    
+
+}
+
+
+
+.ul1 li
+{ 
+    display:inline-block;
+
+    margin-top:50px;
+    
+    margin-right:80px;
+    border:solid #fff 1px;
+    
+    padding:5px 20px;
+
+    
+
+    margin-right:10px;
+
+    transition:0.6s;
+}
+
+ul li:hover
+{
+    background-color: lightskyblue;
+    color: #000;
+
+    
+}
+
+
+.logo
+{
+    width: 150px;
+    height:150px;
+
+    position:absolute;
+    top:50px;
+    left:100px;
+}
+
+
+.span
+{
+    position:absolute;
+
+    left:280px;
+    top:90px;
+
+    font-size:20px;
+
+    color:lightcyan;
+    
+    font-family: 'Pacifico', cursive;
+
+    
+}
+
+.h1
+{
+    font-size: 60px;
+    color: #cee397;
+    text-decoration:underline;
+
+    font-family: 'Merriweather', serif;
+}
+
+
+.title
+{
+    position:absolute;
+    top:300px;
+    left:320px;
+}
+
+.button 
+{
+    
+    position:absolute;
+
+    top:420px;
+    left:420px; 
+    
+    
+}
+
+.btn
+{
+    color: #000;
+
+    font-size:20px;
+
+    border:solid #fff;
+
+    padding:10px 30px;
+
+    margin-right:10px;
+
+    text-decoration: none;
+    transition: 0.6s;
+    background-color: lightyellow;
+    
+}
+
+.btn:hover
+{
+    background-color: lightskyblue;
+    color: #000
+}
+
